@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azielq
 - 👀 I’m interested in music, cooking and hiking :D
 - 🌱 I’m currently learning software engineering 
-- 📫 Contact: azielqc@gmail.com
+- 📫 Contact: azzielquesada@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like the cats more than the dogs lol
 <!---
